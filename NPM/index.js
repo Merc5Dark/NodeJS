@@ -1,4 +1,8 @@
-let generateName = require('sillyname');
-let sillyName = generateName();
+// let generateName = require('sillyname');
+// let sillyName = generateName();
 
-console.log('My name is ${sillyName}.');
+// console.log('My name is ${sillyName}.');
+
+
+// Challenge
+
